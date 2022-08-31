@@ -1,2 +1,2 @@
 # XAI-Methods-Comparison
-Comparison of different XAI methods for a tabular and time series data sets
+Comparison of different XAI methods for tabular and time series data sets
